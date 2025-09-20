@@ -3,7 +3,7 @@
 Animated cube wiyh only Html and CSS 
 ## 🔗 Live Demo
 
-https://amirali-setayeshmehr-dev.github.io/NOKA_Project/
+[https://amirali-setayeshmehr-dev.github.io/NOKA_Project/](https://amirali-setayeshmehr-dev.github.io/animatedCube-Trick/)
 
 ## 🧰 Tech Stack
 ● HTML5
