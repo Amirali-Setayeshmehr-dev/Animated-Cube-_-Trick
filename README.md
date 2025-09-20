@@ -30,6 +30,8 @@ Feel free to reach out or follow me on social media:
 
 ## 📷 Preview
 
+https://github.com/user-attachments/assets/2bd92ef2-2c42-4c3a-95b8-0b6837a74aac
+
 
 
 
